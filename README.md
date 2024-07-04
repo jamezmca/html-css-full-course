@@ -24,11 +24,11 @@ You will learn modern HTML & CSS from the very beginning, step-by-step. I will g
 
 We will gradually progress our knowledge as we develop 3 different projects, where each project is ever-so-slightly more sophisticated than the last. This gentle progression will allow us to be continuously learning and applying new concepts throughout the course.
 
-In Chapter 1, we build a very basic website to learn the fundamentals of web development with HTML & CSS.
+**In Chapter 1**, we build a very basic website to learn the fundamentals of web development with HTML & CSS.
 
-In Chapter 2, we build the Google Search homepage, a website that is trafficked by millions of people every day, and also a project I did myself at the start of my own learn to code journey.
+**In Chapter 2**, we build the Google Search homepage, a website that is trafficked by millions of people every day, and also a project I did myself at the start of my own learn to code journey.
 
-And in Chapter 3, we build a professional and modern developer portfolio website that is of the calibre needed to land you a job. You can fill it out with your own experience and projects and we also deploy it live to the internet so that you have a link that you can share with your family and friends!
+**And in Chapter 3**, we build a professional and modern developer portfolio website that is of the calibre needed to land you a job. You can fill it out with your own experience and projects and we also deploy it live to the internet so that you have a link that you can share with your family and friends!
 
 You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need in your developer job.
 
