@@ -1,6 +1,6 @@
 # HTML & CSS Full Course | Web Development for Beginners 🔥
 
-This modern HTML & CSS course to help you take your web development skills from **Zero to HERO** in 2024! Master HTML & CSS with projects, challenges and theory; the only course you'll ever need!
+This modern HTML & CSS course will help you take your web development skills from **Zero to HERO** in 2024! Master HTML & CSS with projects, challenges and theory; the only course you'll ever need!
 
 ## The Course Includes
 
