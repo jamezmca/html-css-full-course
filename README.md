@@ -16,7 +16,7 @@ This modern HTML & CSS course will help you take your web development skills fro
 
 ## Description
 
-### Why is this the right JavaScript course for you?
+### Why is this the right HTML & CSS course for you?
 
 This course will teach you everything you need to know about web development with HTML & CSS to start build your own amazing websites today 🔥 But even more than that, it teaches it via a curriculum that won't take you hundreds of hours to complete. It's an all-in-one package that will take you from the very fundamentals of HTML & CSS, all the way to building modern and complex websites & web applications.
 
